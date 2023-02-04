@@ -1,0 +1,38 @@
+*{
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+.container{
+    width: 900px;
+}
+input{
+    padding: 5px;
+}
+button{
+    padding: 7px;
+    background-color: #7070F1;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.main{
+    display: flex;
+}
+address img{
+    width: 400px;
+}
+address{
+    margin-left: -10px;
+    padding: 10px;
+    width: 500px;
+    height: 500px;
+    /* border: 2px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: 20px;
+}
+span{
+    color: #7070F1;
+}
